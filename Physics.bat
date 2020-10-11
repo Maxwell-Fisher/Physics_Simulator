@@ -13,14 +13,14 @@ set loop2=0
 set loop3=0
 cls
 
-set red=%ESC%[91m%ESC%[41m__%ESC%[0m
-set yellow=%ESC%[93m%ESC%[43m__%ESC%[0m
-set green=%ESC%[92m%ESC%[42m__%ESC%[0m
-set blue=%ESC%[94m%ESC%[44m__%ESC%[0m
-set cyan=%ESC%[96m%ESC%[46m__%ESC%[0m
-set magenta=%ESC%[95m%ESC%[45m__%ESC%[0m
-set black=%ESC%[30m%ESC%[40m__%ESC%[0m
-set white=%ESC%[90m%ESC%[47m__%ESC%[0m
+set red=%ESC%[91m%ESC%[41m  %ESC%[0m
+set yellow=%ESC%[93m%ESC%[43m  %ESC%[0m
+set green=%ESC%[92m%ESC%[42m  %ESC%[0m
+set blue=%ESC%[94m%ESC%[44m  %ESC%[0m
+set cyan=%ESC%[96m%ESC%[46m  %ESC%[0m
+set magenta=%ESC%[95m%ESC%[45m  %ESC%[0m
+set black=%ESC%[30m%ESC%[40m  %ESC%[0m
+set white=%ESC%[90m%ESC%[47m  %ESC%[0m
 
 set space_1=%black%
 set space_2=%black%
